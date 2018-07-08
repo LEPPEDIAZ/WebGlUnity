@@ -245,10 +245,57 @@ footer{
   padding: 120px;
   text-align: left;
 }
+.final{
+  display: inline-block;
+  width: 10px;
+  height: 260px;
+  padding: 120px;
+  text-align: center;
+}
+.final1{
+  display: inline-block;
+  width: 10px;
+  height: 260px;
+  padding: 120px;
+  text-align: center;
+}
+.logo3{
+  display: inline-block;
+  width: 150px;
+  height: 5px;
+  background: url('../img/logo3.JPG') center no-repeat;
+  padding: 50px;
+}
+.fa-facebook {
+  background: black;
+  color: white;
+  width: 40px;
+  border-radius: 50%;
 
+}
 
+/* Twitter */
+.fa-twitter {
+  background:black;
+  color: white;
+  width: 40px;
+  border-radius: 50%;
 
+}
+.fa-youtube {
+  background: black;
+  color: white;
+  width: 40px;
+  border-radius: 50%;
 
+} 
+.fa-instagram {
+  background: black;
+  color: white;
+  width: 40px;
+  border-radius: 50%;
+
+} 
 
 
 
