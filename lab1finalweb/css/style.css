@@ -1,0 +1,186 @@
+#mynavigation>a{
+  color: green;
+  font-family: 'Pacifico', Georgia;
+  font-size:250%;
+  padding: 50px;
+  
+}
+body{
+  background: url('../img/image.png') ;
+  font-size:120%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a{
+  color: #333;
+}
+
+a:hover{
+  color: black;
+}
+
+.wrapper{
+  background: url('../img/image.png') ;
+  width: 1000px;
+  margin: 0 auto;
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px; /* for old Konqueror browsers */
+ 
+}
+
+header .brand{
+  background-color: #fff;
+  color: green;
+  font-family: 'Pacifico', Georgia;
+  font-size:250%;
+  padding: 50px;
+}
+header .brand span{
+  font-family: 'Open Sans', sans-serif;
+  color:black;
+  font-size:40%;
+  padding: 20px;
+}
+header .brand2 span{
+  font-family: 'Open Sans', sans-serif;
+  color: green;
+  font-size:40%;
+  padding: 20px;
+}
+.wrap{
+  display: inline-block;
+  width: 450px;
+  height: 415px;
+  background-color: white;
+  padding: 45px;
+
+}
+.hero3{
+  margin: 0 auto;
+  width: 900px;
+  background: url('../img/data.JPG') center no-repeat;
+  padding: 50px;
+}
+.logo{
+  display: inline-block;
+  width: 20px;
+  height: 5px;
+  background: url('../img/logo2.JPG') center no-repeat;
+  padding: 50px;
+}
+
+
+.hero{
+  display: inline-block;
+  width: 150px;
+  height: 260px;
+  background: url('../img/Capture7.JPG') center no-repeat;
+  padding: 150px;
+}
+.video{
+  position: inherit;
+  left: 80px;
+  display: inline-block;
+  background-color: #fff;
+  margin-inline-start: 100px;
+  
+}
+.hero2{
+  display: inline-block;
+  width: 150px;
+  height: 260px;
+  background: url('../img/info4.JPG') center no-repeat;
+  padding: 150px;;
+}
+content{
+  overflow: hidden;
+  display: block;
+  padding: 50px;
+}
+
+main{
+  float:left;
+  width: 70%
+}
+
+aside{
+  float:right;
+}
+
+aside .section{
+  background-color: #fdd761;
+  padding: 30px;
+  box-sizing: border-box;
+}
+aside .section h3{
+  background-color: #ff5353;
+  color: #fff;
+  padding: 20px;
+  margin-top:0; 
+}
+
+aside ul{
+  list-style: none;
+  margin:0;
+  padding: 0;
+}
+
+aside a{
+  padding: 10px 0;
+  display: block;
+}
+
+article{
+  margin-bottom: 60px;
+}
+
+article h2{
+  margin-bottom: 0;
+  font-size: 170%;
+  color: #333;
+  padding: 0;
+}
+
+article p{
+  margin-top: 10px;
+  font-size: 100%;
+  color: #333;
+  padding: 0;
+}
+
+
+
+
+footer{
+  text-align: center;
+  padding: 20px;
+  font-size: 90%;
+  clear:both;
+  display: block;
+}
+.fondo{
+  background: url('../img/image2.png') ;
+  background-color: #F8F8F8;
+  width: 1000px;
+  margin: 0 auto;
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px; /* for old Konqueror browsers */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
